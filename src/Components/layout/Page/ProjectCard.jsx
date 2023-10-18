@@ -1,6 +1,11 @@
 import React from 'react'
 
 function ProjectCard({project}) {
+
+  const handleRedirect = (url) => {
+    window.open(url, "_blank");
+  }
+
   return (
     <div className="col-12 col-sm-6 col-md-4 text-black">
       <div className="card m-3">
@@ -16,21 +21,15 @@ function ProjectCard({project}) {
               alt="no content"
             />
             <div className="overlay">
-              <button className="btn btn-light">
-                <i className="bi bi-link-45deg"></i>
+              <button className="btn m-1 btn-dark"
+                onClick={()=>handleRedirect(project.githubUrl)}>
+                  <i className="bi bi-github"></i> Github
               </button>
             </div>
           </div>
           <div className="p-3">
             <h3>{project.title}</h3>
             <p>{project.description}</p>
-            <div style={{ textAlign: "center" }}>
-              {project.githubUrl && (
-                <button className="btn m-1 btn-dark">
-                  <i className="bi bi-github"></i> Github
-                </button>
-              )}
-            </div>
           </div>
         </div>
       </div>

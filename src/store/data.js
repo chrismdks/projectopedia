@@ -2,7 +2,6 @@ export const projectList = [
   {
     imageUrl: "https://via.placeholder.com/150",
     title: "TaskOPedia",
-    redirectUrl: "",
     description: "Learn basic fundamentals of React by building a simple page.",
     githubUrl: "https://github.com/chrismdks/taskopedia",
     topicsCovered: [
@@ -15,7 +14,6 @@ export const projectList = [
   {
     imageUrl: "https://via.placeholder.com/150",
     title: "CountOPedia",
-    redirectUrl: "",
     description: "Build a simple game to attack or defense and get points.",
     githubUrl: "https://github.com/chrismdks/countopedia",
     topicsCovered: [
@@ -26,7 +24,6 @@ export const projectList = [
   {
     imageUrl: "https://via.placeholder.com/150",
     title: "ContactOPedia",
-    redirectUrl: "",
     description: "Perform CRUD operations on contact list in React.",
     githubUrl: "https://github.com/chrismdks/contactopedia",
     topicsCovered: [
@@ -39,7 +36,6 @@ export const projectList = [
   {
     imageUrl: "https://via.placeholder.com/150",
     title: "LifecycleOPedia",
-    redirectUrl: "",
     description: "We will explore lifecycle methods in functional and class components.",
     githubUrl: "https://github.com/chrismdks/lifecyclopedia",
     topicsCovered: [
@@ -53,7 +49,6 @@ export const projectList = [
   {
     imageUrl: "https://via.placeholder.com/150",
     title: "WatchOPedia",
-    redirectUrl: "",
     description: "We will explore more on hooks in functional components.",
     githubUrl: "https://github.com/chrismdks/watchopedia",
     topicsCovered: [
@@ -63,7 +58,6 @@ export const projectList = [
   {
     imageUrl: "https://via.placeholder.com/150",
     title: "RouteOPedia",
-    redirectUrl: "",
     description: "Explore routing in React JS.",
     githubUrl: "https://github.com/chrismdks/routeopedia",
     topicsCovered: [
@@ -77,7 +71,6 @@ export const projectList = [
   {
     imageUrl: "https://via.placeholder.com/150",
     title: "ReduxOPedia",
-    redirectUrl: "",
     description: "Better state management using Redux Toolkit.",
     githubUrl: "https://github.com/chrismdks/reduxopedia",
     topicsCovered: [
@@ -91,7 +84,6 @@ export const projectList = [
   {
     imageUrl: "https://via.placeholder.com/150",
     title: "TravelOPedia",
-    redirectUrl: "",
     description: "Explore Redux Query and Mutation for async calls.",
     githubUrl: "https://github.com/chrismdks/travelopedia",
     topicsCovered: [
@@ -105,7 +97,6 @@ export const projectList = [
   {
     imageUrl: "https://via.placeholder.com/150",
     title: "Red Mango API",
-    redirectUrl: "",
     description: ".NET API for restaurant with multiple endpoints.",
     githubUrl: "www.github.com",
     topicsCovered: [
@@ -118,7 +109,6 @@ export const projectList = [
   {
     imageUrl: "https://via.placeholder.com/150",
     title: "Red Mango Client",
-    redirectUrl: "",
     description: "Build real world project where we consume .NET API",
     githubUrl: "www.github.com",
     topicsCovered: [
