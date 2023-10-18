@@ -9,9 +9,9 @@ function Home() {
         Project List
       </div>
       <div className='row'>
-          {projectList.map((project,index)=>
-            <ProjectCard key={index} project={project}/>
-          )}
+        {projectList.map((project,index)=>
+          <ProjectCard key={index} project={project}/>
+        )}
       </div>
     </div>
   )
