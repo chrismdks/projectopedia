@@ -25,12 +25,11 @@ function ProjectCard({project}) {
             <h3>{project.title}</h3>
             <p>{project.description}</p>
             <div style={{ textAlign: "center" }}>
+              {project.githubUrl && (
                 <button className="btn m-1 btn-dark">
                   <i className="bi bi-github"></i> Github
                 </button>
-                <button className="btn m-1 btn-danger">
-                  <i className="bi bi-youtube"></i> Youtube
-                </button>
+              )}
             </div>
           </div>
         </div>
