@@ -1,6 +1,6 @@
 export const projectList = [
   {
-    imageUrl: "https://via.placeholder.com/150",
+    imageUrl: "https://picsum.photos/200/300/",
     title: "TaskOPedia",
     description: "Learn basic fundamentals of React by building a simple page.",
     githubUrl: "https://github.com/chrismdks/taskopedia",
@@ -12,7 +12,7 @@ export const projectList = [
     ],
   },
   {
-    imageUrl: "https://via.placeholder.com/150",
+    imageUrl: "https://picsum.photos/200/302",
     title: "CountOPedia",
     description: "Build a simple game to attack or defense and get points.",
     githubUrl: "https://github.com/chrismdks/countopedia",
@@ -22,7 +22,7 @@ export const projectList = [
     ],
   },
   {
-    imageUrl: "https://via.placeholder.com/150",
+    imageUrl: "https://picsum.photos/200/301",
     title: "ContactOPedia",
     description: "Perform CRUD operations on contact list in React.",
     githubUrl: "https://github.com/chrismdks/contactopedia",
@@ -34,7 +34,7 @@ export const projectList = [
     ],
   },
   {
-    imageUrl: "https://via.placeholder.com/150",
+    imageUrl: "https://picsum.photos/200/305",
     title: "LifecycleOPedia",
     description: "We will explore lifecycle methods in functional and class components.",
     githubUrl: "https://github.com/chrismdks/lifecyclopedia",
@@ -47,7 +47,7 @@ export const projectList = [
     ],
   },
   {
-    imageUrl: "https://via.placeholder.com/150",
+    imageUrl: "https://picsum.photos/200/306",
     title: "WatchOPedia",
     description: "We will explore more on hooks in functional components.",
     githubUrl: "https://github.com/chrismdks/watchopedia",
@@ -56,7 +56,7 @@ export const projectList = [
     ],
   },
   {
-    imageUrl: "https://via.placeholder.com/150",
+    imageUrl: "https://picsum.photos/200/307/",
     title: "RouteOPedia",
     description: "Explore routing in React JS.",
     githubUrl: "https://github.com/chrismdks/routeopedia",
@@ -69,7 +69,7 @@ export const projectList = [
     ],
   },
   {
-    imageUrl: "https://via.placeholder.com/150",
+    imageUrl: "https://picsum.photos/200/310/",
     title: "ReduxOPedia",
     description: "Better state management using Redux Toolkit.",
     githubUrl: "https://github.com/chrismdks/reduxopedia",
@@ -82,7 +82,7 @@ export const projectList = [
     ],
   },
   {
-    imageUrl: "https://via.placeholder.com/150",
+    imageUrl: "https://picsum.photos/200/313/",
     title: "TravelOPedia",
     description: "Explore Redux Query and Mutation for async calls.",
     githubUrl: "https://github.com/chrismdks/travelopedia",
@@ -95,7 +95,7 @@ export const projectList = [
     ],
   },
   {
-    imageUrl: "https://via.placeholder.com/150",
+    imageUrl: "https://picsum.photos/200/309/",
     title: "Red Mango API",
     description: ".NET API for restaurant with multiple endpoints.",
     githubUrl: "www.github.com",
@@ -107,7 +107,7 @@ export const projectList = [
     ],
   },
   {
-    imageUrl: "https://via.placeholder.com/150",
+    imageUrl: "https://picsum.photos/200/308/",
     title: "Red Mango Client",
     description: "Build real world project where we consume .NET API",
     githubUrl: "www.github.com",
